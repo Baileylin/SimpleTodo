@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app:
+Describe any challenges encountered while building the app:         
 When I was working on the optional task, the emulator had no problem at displaying the edit activity interface. However, when I was trying to populate the items in MainActivity interface onto the EditActivity interface, the app crashed. So I was half way through the optional task.
 
 ## License
